@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AhmedMondo
+- 👀 I’m interested in NodeJS, Discord Bots
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me at Discord : Ahmed_Mondo#4553
