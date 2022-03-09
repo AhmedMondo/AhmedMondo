@@ -41,7 +41,7 @@ const Fnr = {
 ---
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eqotxzy3o4bycg2zn2s7itodgq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eqotxzy3o4bycg2zn2s7itodgq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31eqotxzy3o4bycg2zn2s7itodgq&redirect=true)
 
 -- 
 Template stolen from [FrnDev](https://github.com/FnrDev/)
