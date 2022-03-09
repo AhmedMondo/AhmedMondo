@@ -1,7 +1,7 @@
 ### About Me 👤
 
 ```js
-const Fnr = {
+const Ahmed = {
     name: "Ahmed",
     age: 19,
     from: "Egypt",
