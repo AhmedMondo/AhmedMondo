@@ -7,8 +7,8 @@ const Ahmed = {
     from: "Egypt",
     Discord: "Ahmed_Mondo#4553",
     technologies: {
-        backend: ["NodeJS", "Express.JS"],
-        database: ["Enmap", "MongoDB"],
+        backend: ["NodeJS", "Express.JS" , "PHP"],
+        database: ["Enmap", "MongoDB", "MySQL"],
         others: ["Git", "GitHub", "NPM", "Cloudflare"]
     },
     languages: ["HTML", "CSS", "JavaScript" , "PHP"]
