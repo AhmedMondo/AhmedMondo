@@ -39,9 +39,3 @@ const Ahmed = {
 ![Discord](https://discord.c99.nl/widget/theme-1/583428943378513940.png)
 
 ---
-
-### Spotify Playing 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eqotxzy3o4bycg2zn2s7itodgq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31eqotxzy3o4bycg2zn2s7itodgq&redirect=true)
-
--- 
-Template stolen from [FrnDev](https://github.com/FnrDev/)
