@@ -18,7 +18,7 @@ const Ahmed = {
 ---
 ###  Worked on:
 - <img src="https://cdn.discordapp.com/emojis/822888923016986644.webp" width="20" height="25"> [Ticket  Manager](https://ticket-manager.xyz/) | Founder & Developer (Discord Bot)
-- <img src="https://cdn.discordapp.com/attachments/740572294178537603/1188659995999486033/Teleube.jpg" width="20" height="25"> [Teleube](https://t.me/Teleube_bot) [Source Code](https://github.com/AhmedMondo/Teleube) | Founder & Developer (Telegram Bot)
+- <img src="https://cdn.discordapp.com/attachments/740572294178537603/1188659995999486033/Teleube.jpg" width="20" height="25"> [Teleube](https://t.me/Teleube_bot) | Founder & Developer (Telegram Bot) [Source Code](https://github.com/AhmedMondo/Teleube)
 ---
 
 ### GitHub Stats 
