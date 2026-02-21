@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmondo3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmondo3?logo=twitter&style=for-the-badge" alt="ahmedmondo3" /></a> </p>
 
--  I’m currently working on [Teleube](https://github.com/AhmedMondo/Teleube)
+-  I’m currently working on [Lousin](https://lous.in) [GitHub](https://github.com/Lousin-Services)
 
 -  I’m currently learning **Full stack of Frontend**
 
 -  All of my projects are available at (soon) [Portfolio](https://amondo.com)
 
--  Ask me about **express.js, MongoDB, Node.JS**
+-  Ask me about **Discord.JS, express.js, MongoDB, Node.JS or MySQL**
 
 -  How to reach me **@AhmedMondo**
 
